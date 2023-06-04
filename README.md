@@ -2,7 +2,7 @@
 A study case of cumulative CO2 emissions for each country by year from 1700.
 
 # DataSet choice
-I chose the CO2 dataset because the subject was interesting, and I think I can obtain many metrics. It's going to be a good training for my first project.
+I chose the CO2 dataset because the subject was interesting, and I think I can obtain many metrics. It's going to be a good training
 
 # Technical stack and choice
 ## I choose Python because
