@@ -12,5 +12,9 @@ I chose the CO2 dataset because the subject was interesting, and I think I can o
  because, for me, it is really efficient in rendering code and graphics.
  With the Voila framework, it's easy to quickly show something for business.
 
-# DataSet link
-https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022
+# Link
+
+You can find a render of my work there, the graph are made plotly, 
+it's work with Js so you will not have a good render with jupyter file  : https://rurutea.github.io/co2DataStudy/
+
+link for the dataset : https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022
