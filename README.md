@@ -1,6 +1,9 @@
 # CO2 Study Case
 A study case of cumulative CO2 emissions for each country by year from 1700.
 
+#Vizualisation
+Get a clean vizualisation in this link https://rurutea.github.io/notebook_co2DataStudy/
+
 # DataSet choice
 I chose the CO2 dataset because the subject was interesting, and I think I can obtain many metrics. It's going to be a good training
 
