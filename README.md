@@ -2,7 +2,7 @@
 A study case of cumulative CO2 emissions for each country by year from 1700.
 
 # Vizualisation
-get a full render with dynamic graph : https://rurutea.github.io/co2DataStudy/
+get a full render with dynamic graph : [https://rurutea.github.io/co2DataStudy/](https://rurutea.github.io/notebook_co2DataStudy/)
 
 # DataSet choice
 I chose the CO2 dataset because the subject was interesting, and I think I can obtain many metrics. It's going to be a good training
